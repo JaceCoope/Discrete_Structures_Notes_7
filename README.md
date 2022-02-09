@@ -19,3 +19,4 @@ Proof is:
 2. Every statement either is an axiom or is something that has been proof or is an assumption
 3. Every step has to be correct
  
+Note: 2k notates an even number, while 2k+1 notates an odd number
